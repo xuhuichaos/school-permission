@@ -1,0 +1,39 @@
+html,body,#app {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+/* .el-main {
+    padding: 20px 10px;
+} */
+
+.el-breadcrumb {
+    margin-bottom: 15px;
+}
+
+.el-card {
+    box-shadow: 0 1px 1px rgba(0, 0, 0, .15) !important;
+    border-radius: 10px;
+}
+
+.el-table,
+.el-pagination {
+    margin-top: 15px;
+}
+/* 
+.left {
+    text-align: left;
+} */
+
+/* .el-dialog__body {
+    padding: 30px 50px;
+} */
+
+.el-dialog__footer {
+    text-align: center;
+}
+
+/* .el-dialog__footer .el-button+.el-button {
+    margin-left: 50px;
+} */
